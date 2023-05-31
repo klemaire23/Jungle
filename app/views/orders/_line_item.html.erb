@@ -1,0 +1,7 @@
+<tr>
+  <td colspan="2"><%= line_item.product.name %></td>
+  <td><%= image_tag line_item.product.image.thumb.url, alt: line_item.product.name, class: 'line-item-image' %></td>
+  <td><%= line_item.product.description %></td>
+  <td><%= line_item.quantity %></td>
+  <td><%= humanized_money_with_symbol line_item.item_price %></td>
+</tr>
