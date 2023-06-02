@@ -105,6 +105,19 @@ form.button_to {
   }
 }
 
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links .nav-link {
+  margin-right: 10px;
+}
+
+.navbar-nav .nav-item:last-child {
+  margin-left: auto;
+}
+
 .page-header {
   margin: 3em 0;
 }
