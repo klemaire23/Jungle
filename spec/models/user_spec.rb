@@ -14,7 +14,7 @@ RSpec.describe User, type: :model do
       expect(user.save).to be true
     end
 
-    it "should require a password and password confirmation" do
+    it "should require password and password confirmation fields" do
       user = User.new(
         first_name: 'Jane',
         last_name: 'Doe',
