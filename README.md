@@ -3,7 +3,10 @@
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
 # Finished Product
-
+!["Screenshot of Homepage"](https://github.com/klemaire23/Jungle/blob/master/app/assets/images/Jungle-homepage.png?raw=true)
+!["Screenshot of Products on Homepage"](https://github.com/klemaire23/Jungle/blob/master/app/assets/images/Jungle-products.png?raw=true)
+!["Screenshot of Empty Cart"](https://github.com/klemaire23/Jungle/blob/master/app/assets/images/Jungle-empty-cart.png?raw=true)
+!["Screenshot of Completed Order"](https://github.com/klemaire23/Jungle/blob/master/app/assets/images/Jungle-order.png?raw=true)
 
 ## Setup
 
