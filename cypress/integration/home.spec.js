@@ -1,10 +1,6 @@
 
 describe('Jungle app', () => {
   
-  // beforeEach(() => {
-  //   cy.visit('http://localhost:3000/')
-  // })
-
   it('visits the homepage', () => {
    cy.visit('http://localhost:3000/')
   });
